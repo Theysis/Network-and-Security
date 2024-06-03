@@ -1,0 +1,1 @@
+Compiled using the Python command line argument with the pathing <Python nosjReader.py ("test.txt")>.
